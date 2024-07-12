@@ -60,3 +60,5 @@
 2024/07/12 08:40:30 [alert] 3608#3608: lua_code_cache is off; this will hurt performance in /home/cam/test/nginx.conf.compiled:20
 2024/07/12 08:49:21 [alert] 5619#5619: lua_code_cache is off; this will hurt performance in /home/cam/test/nginx.conf.compiled:20
 2024/07/12 09:34:10 [alert] 1258#1258: lua_code_cache is off; this will hurt performance in /home/cam/test/nginx.conf.compiled:20
+2024/07/12 13:26:58 [alert] 3026#3026: lua_code_cache is off; this will hurt performance in /home/cam/test/nginx.conf.compiled:20
+2024/07/12 13:29:13 [alert] 3577#3577: lua_code_cache is off; this will hurt performance in /home/cam/test/nginx.conf.compiled:20
